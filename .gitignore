@@ -1,0 +1,17 @@
+
+###> symfony/web-server-bundle ###
+/.web-server-pid
+###< symfony/web-server-bundle ###
+
+# Managed by Composer
+/bin/*
+!bin/console
+!bin/symfony_requirements
+/vendor/
+
+# Logs (Symfony4)
+/var/cache/*
+/var/log/*
+!var/log/.gitkeep
+
+
