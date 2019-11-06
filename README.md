@@ -1,6 +1,12 @@
 # rss_feed
 Simple RSS reader web application
 
+# Test the app online
+
+You can directly test the app on : http://193.70.37.126:8000/register
+
+# Test the app manually
+
 ## OS currently used 
 Ubuntu 19.04
 
